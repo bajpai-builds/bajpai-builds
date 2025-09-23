@@ -26,9 +26,9 @@
 <a href="https://discord.gg/hacker8116" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hacker8116" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Featured Projects:</h3>
+<!-- <h3 align="left">Featured Projects:</h3>
 
-🚀 Integrated Search Tool
+🚀 Integrated Search Tool -->
 <!-- You can add a screenshot of your project here! -->
 
 <!-- <img src="URL_TO_YOUR_PROJECT_SCREENSHOT.png" alt="Project 1 Screenshot" width="400"/> -->
@@ -81,7 +81,7 @@ A brief and engaging description of your project. What problem does it solve and
 <br/>
 
 <details>
-<summary>Click to view my GitHub Stats</summary>
+<summary>⚡ Check out my GitHub Pulse & Stats</summary>
 <br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bajpaisandarbh&show_icons=true&locale=en&layout=compact" alt="bajpaisandarbh" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bajpaisandarbh&show_icons=true&locale=en" alt="bajpaisandarbh" /></p>
