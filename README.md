@@ -49,6 +49,7 @@ A smart unified search engine that aggregates and ranks results from multiple so
   <a href="https://www.hackerrank.com/12221287_sb"><img src="https://img.shields.io/badge/Hackerrank-2EC866?logo=hackerrank&logoColor=white" /></a>
   <a href="https://www.leetcode.com/sandarbhbajpai"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white" /></a>
   <a href="https://discord.gg/hacker8116"><img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white" /></a>
+  <a href="https://wa.me/919352643208"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" /></a>
 </p>
 
 ---
