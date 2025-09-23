@@ -36,7 +36,7 @@
 <p>
 A brief and engaging description of your project. What problem does it solve and what makes it stand out?
 <br/><br/>
-<strong>Tech Stack:</strong> React, Node.js, Express.js, MongoDB (You can update this with your actual stack)
+<strong>Tech Stack:</strong> React, Node.js, Express.js, MongoDB 
 <br/>
 <a href="YOUR_PROJECT_LIVE_DEMO_URL" target="_blank">Live Demo</a> | <a href="YOUR_PROJECT_GITHUB_REPO_URL" target="_blank">View Code</a>
 </p>
