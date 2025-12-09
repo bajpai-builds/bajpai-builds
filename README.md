@@ -27,12 +27,12 @@
 
 ## 🚀 Featured Projects  
 
-### 🔎 Integrated Search Tool  
-A smart unified search engine that aggregates and ranks results from multiple sources.  
+### 🎭 Integrated Search Tool  
+**Project Mirage** turns a single JSON example into a fully functional, dynamic mock server in seconds. It uses Generative AI (Gemini) to write Python code that mimics your API's structure, data types, and logic—so you can build your frontend before the backend is even ready.
 
-**Tech Stack:** React, Node.js, Express.js, MongoDB  
+**Tech Stack:** HTML , Python 
 
-🔗 [Live Demo](YOUR_PROJECT_LIVE_DEMO_URL) | 💻 [View Code](YOUR_PROJECT_GITHUB_REPO_URL)  
+🔗 [Live Demo]() | 💻 [View Code](https://github.com/bajpai-builds/Project-Mirage)  
 
 <!-- <p align="center">
   <img src="https://via.placeholder.com/400x200.png?text=Project+Screenshot" alt="Project Screenshot" />
