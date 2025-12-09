@@ -17,7 +17,7 @@
 
 ## 🌟 About Me  
 
-- 🔭 Currently building: **Integrated Search Tool**  
+- 🔭 Currently building: **Project Mirage**  
 - 🌱 Learning: **DSA + Web Development**  
 - 👨‍💻 Explore my projects: [Portfolio](https://spotlight-mu-five.vercel.app/)
 - 💬 Ask me about: **React, Node.js, AI tools**  
@@ -27,7 +27,7 @@
 
 ## 🚀 Featured Projects  
 
-### 🎭 Integrated Search Tool  
+### 🎭 Project Mirage
 **Project Mirage** turns a single JSON example into a fully functional, dynamic mock server in seconds. It uses Generative AI (Gemini) to write Python code that mimics your API's structure, data types, and logic—so you can build your frontend before the backend is even ready.
 
 **Tech Stack:** HTML , Python 
