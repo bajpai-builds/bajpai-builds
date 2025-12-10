@@ -32,7 +32,7 @@
 
 **Tech Stack:** HTML , Python 
 
-🔗 [Live Demo]() | 💻 [View Code](https://github.com/bajpai-builds/Project-Mirage)  
+🔗 [Live Demo](https://project-mirage.onrender.com/) | 💻 [View Code](https://github.com/bajpai-builds/Project-Mirage)  
 
 <!-- <p align="center">
   <img src="https://via.placeholder.com/400x200.png?text=Project+Screenshot" alt="Project Screenshot" />
