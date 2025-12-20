@@ -6,7 +6,7 @@
   <a href="https://linkedin.com/in/sandarbh-bajpai">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/bajpaisandarbh">
+  <a href="https://github.com/bajpai-builds">
     <img src="https://img.shields.io/badge/GitHub-100000?style=social&logo=github" alt="GitHub"/>
   </a>
   <a href="https://leetcode.com/sandarbhbajpai">
@@ -14,6 +14,9 @@
   </a>
   <a href="https://www.hackerrank.com/12221287_sb">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=social&logo=hackerrank" alt="HackerRank"/>
+  </a>
+  <a href="https://kaggle.com/sandarbhbajpai">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=social&logo=kaggle" alt="Kaggle"/>
   </a>
 </div>
 
@@ -27,14 +30,17 @@
       <b>&gt; current_status:</b> <code>Building the future of Mock APIs</code><br>
       <b>&gt; location:</b> <code>India 🇮🇳</code><br>
       <b>&gt; interests:</b> <code>["AI Agents", "React", "System Design"]</code><br>
-      <b>&gt; listening_to:</b> <code>Lofi Beats for Coding 🎧</code>
+      <b>&gt; portfolio:</b> <a href="https://spotlight-hazel.vercel.app/"><b><u>Visit Spotlight ↗</u></b></a>
       <br><br>
       <blockquote>
         I don't just write code; I build <b>solutions</b>. Currently obsessing over how Generative AI can automate backend workflows (see <b>Project Mirage</b> below).
       </blockquote>
       <br>
+      <a href="https://spotlight-hazel.vercel.app/">
+        <img src="https://img.shields.io/badge/🌟_View_Portfolio-Spotlight-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+      </a>
       <a href="mailto:bajpaisandarbh@gmail.com">
-        <img src="https://img.shields.io/badge/Contact_Me-bajpaisandarbh@gmail.com-black?style=flat-square&logo=gmail" />
+        <img src="https://img.shields.io/badge/Email_Me-bajpaisandarbh@gmail.com-black?style=for-the-badge&logo=gmail&logoColor=white" />
       </a>
     </td>
     <td width="45%" valign="center">
@@ -107,14 +113,10 @@
 
 <h3 align="center">📊 The Data</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bajpaisandarbh&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bajpaisandarbh&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="languages graph" />
-</div>
-
-<div align="center">
-  <img src="https://github.com/bajpaisandarbh/bajpaisandarbh/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bajpai-builds&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bajpai-builds&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="languages graph" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bajpaisandarbh&label=Profile+Views&color=blueviolet&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=bajpai-builds&label=Profile+Views&color=blueviolet&style=flat-square" alt="profile views" />
 </p>
