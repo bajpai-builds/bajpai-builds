@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Sandarbh Bajpai</h1>
-<h3 align="center">🚀 AI Fullstack Developer | 💡 Passionate about AI & Web Development</h3>
+<h3 align="center">🚀 AI Fullstack Developer | 💡 Exploring AI and Modern Web Development</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=0e75b6&lines=AI+%7C+Fullstack+Developer;Problem+Solver;Open+Source+Contributor;Always+Learning+🚀&center=true&width=500&height=50" />
@@ -17,18 +17,22 @@
 
 ## 🌟 About Me  
 
+I’m a developer who enjoys building **clean, practical, and scalable solutions** by combining strong fundamentals with modern tools.
+
 - 🔭 Currently building: **Project Mirage**  
-- 🌱 Learning: **DSA + Web Development**  
-- 👨‍💻 Explore my projects: [Portfolio](https://spotlight-hazel.vercel.app/)
-- 💬 Ask me about: **React, Node.js, AI tools**  
+- 🌱 Actively learning: **Data Structures & Algorithms and Fullstack Web Development**  
+- 👨‍💻 Portfolio: [https://spotlight-hazel.vercel.app/](https://spotlight-hazel.vercel.app/)  
+- 💬 Ask me about: **React, Node.js, backend logic, and AI tools**  
 - 📫 Reach me at: **bajpaisandarbh@gmail.com**
 
 ---
 
-## 🚀 Featured Projects  
+## 🚀 Featured Project  
 
-### 🎭 Project Mirage
-**Project Mirage** turns a single JSON example into a fully functional, dynamic mock server in seconds. It uses Generative AI (Gemini) to write Python code that mimics your API's structure, data types, and logic so you can build your frontend before the backend is even ready.
+### 🎭 Project Mirage  
+
+**Project Mirage** transforms a single JSON example into a fully functional mock API within seconds.  
+It uses **Generative AI (Gemini)** to generate Python-based endpoints that closely resemble real backend behavior, allowing frontend development to begin without waiting for the backend to be ready.
 
 **Tech Stack:** HTML, Python  
 
@@ -62,7 +66,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36"/>  
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="36"/>
 
-<sub>UI focused, responsive, clean</sub>
+<sub>Focused on responsive design and intuitive user interfaces</sub>
 
 </td>
 
@@ -73,7 +77,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="36"/>  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="36"/>
 
-<sub>APIs, logic, scalability</sub>
+<sub>API development, business logic, and scalability</sub>
 
 </td>
 
@@ -84,7 +88,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="36"/>  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="36"/>
 
-<sub>SQL & NoSQL</sub>
+<sub>Experience with both SQL and NoSQL databases</sub>
 
 </td>
 
@@ -95,7 +99,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="36"/>  
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="36"/>
 
-<sub>Workflow & design</sub>
+<sub>Version control, system workflows, and UI design</sub>
 
 </td>
 </tr>
