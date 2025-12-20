@@ -19,7 +19,7 @@
 
 - 🔭 Currently building: **Project Mirage**  
 - 🌱 Learning: **DSA + Web Development**  
-- 👨‍💻 Explore my projects: [Portfolio](https://spotlight-mu-five.vercel.app/)
+- 👨‍💻 Explore my projects: [Portfolio](https://spotlight-hazel.vercel.app/)
 - 💬 Ask me about: **React, Node.js, AI tools**  
 - 📫 Reach me at: **bajpaisandarbh@gmail.com**
 
