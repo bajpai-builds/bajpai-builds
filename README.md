@@ -2,149 +2,123 @@
   <img src="https://github.com/bajpai-builds/bajpai-builds/blob/main/Banner.png" alt="Banner" />
 </p>
 
-<h1 align="center">Hey 👋 I'm Sandarbh</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=120&section=header&text=Welcome%20to%20bajpai-builds&fontSize=35&animation=fadeIn" />
+</p>
 
-<h3 align="center">
-  I build things with code, curiosity, and intent.
-</h3>
+<h2 align="center">👋 Hey, I'm Sandarbh</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0e75b6&center=true&vCenter=true&width=550&lines=AI+%26+Fullstack+Developer;Building+Products%2C+Not+Just+Projects;Exploring+Generative+AI;Learning+by+Building+🚀" />
+  <b>AI Fullstack Developer • Builder • Curious Mind</b>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bajpai-builds&label=Visitors&color=0e75b6&style=flat-square" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&width=600&lines=Building+Products+with+Purpose;AI+%2B+Fullstack+Engineering;Learning+by+Shipping;Designing+Clean+User+Experiences" />
 </p>
-
----
-
-## ✨ Who am I?
-
-I’m **Sandarbh**, but online I go by **bajpai-builds**.
-
-I love turning **ideas into interfaces**, **APIs into products**, and **curiosity into code**.  
-My focus is on building things that feel **clean**, **useful**, and **thoughtfully designed**.
-
-Not chasing perfection.  
-Just shipping, learning, and improving — one build at a time.
-
-- 🔭 Currently crafting: **Project Mirage**
-- 🌱 Actively learning: **DSA, Web Architecture, System Design**
-- 🧠 Curious about: **AI tooling, developer experience, product thinking**
-- 🌐 Portfolio: https://spotlight-hazel.vercel.app
-- 📫 Reach me: **bajpaisandarbh@gmail.com**
-
----
-
-## 🚀 What I’m Building Right Now
-
-### 🎭 Project Mirage  
-**Mock APIs. Real speed. Zero backend wait.**
-
-Project Mirage lets you drop in **one JSON example** and instantly get a **working mock API**.  
-Powered by **Generative AI (Gemini)**, it understands structure, data types, and behavior — then generates Python code to simulate real endpoints.
-
-**Why people like it**
-- Frontend can start immediately  
-- No dependency on backend teams  
-- Realistic responses, not fake placeholders  
-
-**Tech behind the scenes**
-- Python  
-- HTML  
-- Generative AI (Gemini)
-
-🔗 Live Demo: https://project-mirage.onrender.com  
-💻 Source Code: https://github.com/bajpai-builds/Project-Mirage
-
----
-
-## 🧭 What I Care About
-
-- Clean, intentional UI  
-- Code that’s readable and maintainable  
-- Learning by building, not just consuming  
-- Shipping small, improving fast  
-
-If you like projects that feel **crafted**, you’ll feel at home here.
-
----
-
-## 🌐 Let’s Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/sandarbh-bajpai">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=bajpai-builds&label=Profile+Visits&color=blueviolet&style=for-the-badge" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,python,mongodb,postgres,tailwind,git,linux,figma" />
+</p>
+
+---
+
+## ✨ About This Builder
+
+> I don’t just write code.  
+> I design experiences, solve problems, and ship ideas.
+
+I’m **Sandarbh (bajpai-builds)** — someone who enjoys turning **ideas into interfaces**, **APIs into products**, and **curiosity into working software**.
+
+- 🔭 Currently building **Project Mirage**
+- 🧠 Learning **DSA, System Design, AI Tooling**
+- 🎯 Focused on **clean UI, strong logic, real-world usefulness**
+- 🌐 Portfolio → https://spotlight-hazel.vercel.app
+- 📫 Contact → **bajpaisandarbh@gmail.com**
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
+</p>
+
+## 🎭 Featured Build — Project Mirage
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e3c-6b8a-4b8c-9b9c-1d3c5d2b7f1e.gif" width="450" />
+</p>
+
+### ⚡ From JSON → Mock API in Seconds
+
+**Project Mirage** helps frontend developers move fast.
+
+Drop in **one JSON sample**, and Mirage uses **Generative AI (Gemini)** to generate a **fully functional mock API** that behaves like the real backend.
+
+🚀 No backend? No waiting. No blockers.
+
+**Why it stands out**
+- Frontend-first development
+- Realistic responses (not dummy data)
+- Faster prototyping & testing
+
+🛠 Tech: `Python` · `HTML` · `Gemini AI`
+
+<p align="center">
+  <a href="https://project-mirage.onrender.com/">
+    <img src="https://img.shields.io/badge/Live%20Demo-Visit-blue?style=for-the-badge" />
   </a>
-  <a href="https://kaggle.com/sandarbhbajpai">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white" />
-  </a>
-  <a href="https://www.hackerrank.com/12221287_sb">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white" />
-  </a>
-  <a href="https://www.leetcode.com/sandarbhbajpai">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://instagram.com/bsandarbh">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" />
+  <a href="https://github.com/bajpai-builds/Project-Mirage">
+    <img src="https://img.shields.io/badge/Source%20Code-GitHub-black?style=for-the-badge" />
   </a>
 </p>
 
 ---
 
-## 🛠️ Tools I Build With
+## 🧭 What Drives My Work
 
-### Frontend
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216656949-ec4f6e6c-bb1e-4db3-bf65-0c0f94b84c1d.gif" width="400" />
 </p>
 
-### Backend
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />
-</p>
+- ✨ Intentional UI & UX
+- 🧠 Thoughtful engineering
+- 🛠 Learning by building
+- 📈 Progress over perfection
 
-### Databases
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" />
-</p>
+---
 
-### Tools & Workflow
-<p>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" />
+## 🌍 Find Me Around the Web
+
+<p align="center">
+  <a href="https://linkedin.com/in/sandarbh-bajpai"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://leetcode.com/sandarbhbajpai"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge" /></a>
+  <a href="https://www.hackerrank.com/12221287_sb"><img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://instagram.com/bsandarbh"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" /></a>
 </p>
 
 ---
 
-## 📊 My GitHub in Numbers
+## 📊 GitHub Activity Snapshot
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bajpai-builds&theme=tokyonight" />
+</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bajpai-builds&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bajpai-builds&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bajpai-builds&theme=tokyonight&utcOffset=5.5" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bajpai-builds&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bajpai-builds&theme=tokyonight" />
-</p>
-
 ---
 
 <p align="center">
-  <i>
-    This profile isn’t finished — it’s evolving.<br/>
-    Just like the person building it.
-  </i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Still%20Building%20%E2%9A%99%EF%B8%8F&fontSize=25" />
+</p>
+
+<p align="center">
+  <i>This isn’t a finished profile — it’s a build in progress.</i>
 </p>
