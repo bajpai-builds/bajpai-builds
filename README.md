@@ -1,4 +1,12 @@
 <p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
+    alt="animated background"
+    width="100%"
+  />
+</p>
+
+<p align="center">
   <img src="https://github.com/bajpai-builds/bajpai-builds/blob/main/Banner.png" alt="Banner" />
 </p>
 
