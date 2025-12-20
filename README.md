@@ -1,61 +1,76 @@
 <p align="center">
-  <img src="https://github.com/Bajpaisandarbh/Bajpaisandarbh/blob/main/Banner.png" alt="Banner" />
+  <img src="https://github.com/bajpai-builds/bajpai-builds/blob/main/Banner.png" alt="Banner" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Sandarbh Bajpai</h1>
+<h1 align="center">Hey 👋 I'm Sandarbh</h1>
+
 <h3 align="center">
-  AI Fullstack Developer • Web Enthusiast • Problem Solver
+  I build things with code, curiosity, and intent.
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0e75b6&center=true&vCenter=true&width=500&lines=AI+%26+Fullstack+Developer;Building+with+Intent;Exploring+Generative+AI;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=0e75b6&center=true&vCenter=true&width=550&lines=AI+%26+Fullstack+Developer;Building+Products%2C+Not+Just+Projects;Exploring+Generative+AI;Learning+by+Building+🚀" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bajpaisandarbh&label=Profile+Views&color=0e75b6&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=bajpai-builds&label=Visitors&color=0e75b6&style=flat-square" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## ✨ Who am I?
 
-I’m a developer who enjoys **building meaningful products**, not just projects.
+I’m **Sandarbh**, but online I go by **bajpai-builds**.
 
-I care deeply about **clean UI, thoughtful UX, and practical AI-driven solutions**.  
-My work focuses on blending **frontend polish**, **backend logic**, and **AI experimentation** into things that feel intentional and useful.
+I love turning **ideas into interfaces**, **APIs into products**, and **curiosity into code**.  
+My focus is on building things that feel **clean**, **useful**, and **thoughtfully designed**.
 
-- 🔭 Currently building: **Project Mirage**
-- 🌱 Learning & strengthening: **DSA, System Thinking, Web Architecture**
-- 💡 Interested in: **AI tooling, Developer Experience, Product Engineering**
-- 👨‍💻 Portfolio: [https://spotlight-hazel.vercel.app](https://spotlight-hazel.vercel.app)
-- 📫 Reach me at: **bajpaisandarbh@gmail.com**
+Not chasing perfection.  
+Just shipping, learning, and improving — one build at a time.
+
+- 🔭 Currently crafting: **Project Mirage**
+- 🌱 Actively learning: **DSA, Web Architecture, System Design**
+- 🧠 Curious about: **AI tooling, developer experience, product thinking**
+- 🌐 Portfolio: https://spotlight-hazel.vercel.app
+- 📫 Reach me: **bajpaisandarbh@gmail.com**
 
 ---
 
-## 🚀 Featured Project
+## 🚀 What I’m Building Right Now
 
 ### 🎭 Project Mirage  
-**Turn a single JSON into a working mock API in seconds.**
+**Mock APIs. Real speed. Zero backend wait.**
 
-Project Mirage uses **Generative AI (Gemini)** to analyze a JSON example and automatically generate Python-based mock APIs that replicate structure, data types, and behavior.  
-This allows frontend development to move forward **before the backend exists**.
+Project Mirage lets you drop in **one JSON example** and instantly get a **working mock API**.  
+Powered by **Generative AI (Gemini)**, it understands structure, data types, and behavior — then generates Python code to simulate real endpoints.
 
-**Why it matters**
-- Faster frontend development  
-- No waiting on backend teams  
-- Realistic mock data and responses  
+**Why people like it**
+- Frontend can start immediately  
+- No dependency on backend teams  
+- Realistic responses, not fake placeholders  
 
-**Tech Stack**
+**Tech behind the scenes**
 - Python  
 - HTML  
 - Generative AI (Gemini)
 
-🔗 **Live Demo:** https://project-mirage.onrender.com  
-💻 **Source Code:** https://github.com/bajpai-builds/Project-Mirage
+🔗 Live Demo: https://project-mirage.onrender.com  
+💻 Source Code: https://github.com/bajpai-builds/Project-Mirage
 
 ---
 
-## 🌐 Connect With Me
+## 🧭 What I Care About
+
+- Clean, intentional UI  
+- Code that’s readable and maintainable  
+- Learning by building, not just consuming  
+- Shipping small, improving fast  
+
+If you like projects that feel **crafted**, you’ll feel at home here.
+
+---
+
+## 🌐 Let’s Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/sandarbh-bajpai">
@@ -77,7 +92,7 @@ This allows frontend development to move forward **before the backend exists**.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tools I Build With
 
 ### Frontend
 <p>
@@ -100,7 +115,7 @@ This allows frontend development to move forward **before the backend exists**.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" />
 </p>
 
-### Tools & Others
+### Tools & Workflow
 <p>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />
@@ -109,24 +124,27 @@ This allows frontend development to move forward **before the backend exists**.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 My GitHub in Numbers
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bajpaisandarbh&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bajpai-builds&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bajpaisandarbh&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bajpaisandarbh&theme=tokyonight&utcOffset=5.5" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bajpai-builds&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bajpai-builds&theme=tokyonight&utcOffset=5.5" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bajpaisandarbh&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bajpaisandarbh&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bajpai-builds&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bajpai-builds&theme=tokyonight" />
 </p>
 
 ---
 
 <p align="center">
-  <i>Still learning. Still building. Focused on creating things that feel thoughtful, premium, and useful.</i>
+  <i>
+    This profile isn’t finished — it’s evolving.<br/>
+    Just like the person building it.
+  </i>
 </p>
